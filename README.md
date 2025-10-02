@@ -10,7 +10,8 @@ The task is to implement functions on different Core JS topics. This module requ
 
 **Active usage of [documentation](https://developer.mozilla.org/en-US/) is strongly recommended!**
 
-## Prepare and test
+## Prepare and test   Read the task description in the comment above the function. Try to understand the idea. You can see the tests prepared if you don't understand it.
+This module requires solving problems involving number operations.
 
 1. Install Node.js
 2. Fork this repository: <https://github.com/rolling-scopes-school/core-js-numbers>
